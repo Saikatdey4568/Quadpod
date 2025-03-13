@@ -1,4 +1,4 @@
-Here's a well-structured and detailed **README** for your **Quadpod** project: 🚀🤖  
+
 
 ---
 
@@ -73,8 +73,4 @@ This repository contains the **code, simulations, and documentation** necessary 
 📧 **Email:** saikatdey4568@gmail.com  
 For **collaborations or inquiries**, feel free to **reach out**! 🚀  
 
----
 
-🚀 **Quadpod - Redefining Walking Robotics!** 🤖🔥  
-
-Let me know if you need any modifications! 🚀
